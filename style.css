@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+#bg{
+    background: linear-gradient(192.63deg, #F7EBE2 29.04%, #F8DDCC 47.37%, #F7EBE2 66.21%);
+    width: 80%;
+    height: 100vh;
+    margin: 0 auto;
+    box-shadow: 3px 4px 13px #00000015;
+    text-align: center;
+    padding: 20px;
+}
+
+#foto1{
+    width: 420px;
+    margin: 10px auto 30px auto;
+    display: block;
+}
+
+.botao-link{
+    background-color: #5C7361;
+    color: #F8EBE2;
+    padding: 10px 25px;
+    border-radius: 35px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+span{
+    width: 300px;
+    height: 20px;
+    background-color: #5C7361;
+}
